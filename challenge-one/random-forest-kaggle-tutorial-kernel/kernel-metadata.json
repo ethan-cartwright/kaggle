@@ -1,0 +1,19 @@
+{
+  "id": "prashant111/random-forest-classifier-tutorial",
+  "id_no": 7744366,
+  "title": "Random Forest Classifier Tutorial",
+  "code_file": "random-forest-classifier-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "elikplim/car-evaluation-data-set"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [],
+  "model_sources": []
+}
